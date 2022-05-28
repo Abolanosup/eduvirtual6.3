@@ -31,12 +31,12 @@ class JsonDatabase(object):
                      'cloudtype': 'moodle',
                      'moodle_host': 'https://aulacened.uci.cu/',
                      'moodle_repo_id': 5,
-                     'moodle_user': 'estevez',
-                     'moodle_password': 'Luisaes02.',
+                     'moodle_user': 'Abolanos3',
+                     'moodle_password': 'Aa.940313',
                      'isadmin': 0,
                      'zips': 249,
                      'uploadtype':'calendar',
-                     'proxy':'socks5://181.225.255.17:7080',
+                     'proxy':'',
                      'path':'/'}
 
     def create_admin(self,name):
@@ -44,12 +44,12 @@ class JsonDatabase(object):
                      'cloudtype': 'moodle',
                      'moodle_host': 'https://aulacened.uci.cu/',
                      'moodle_repo_id': 5,
-                     'moodle_user': 'estevez',
-                     'moodle_password': 'Luisaes02.',
+                     'moodle_user': 'Abolanos3',
+                     'moodle_password': 'Aa.940313',
                      'isadmin': 1,
                      'zips': 249,
                      'uploadtype':'draft',
-                     'proxy':'socks5://181.225.255.17:7080',
+                     'proxy':'',
                      'path':'/'}
 
     def remove(self,name):
